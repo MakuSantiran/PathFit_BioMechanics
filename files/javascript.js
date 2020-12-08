@@ -62,13 +62,13 @@ var test = [
 	"Retraction" , // answer
 	"FudentialMotion"], // group
 	["Takes place at the wrist with movement toward either the raidus or ulna",
-	"Radial & Ulnar Deviation" , // answer
+	"Radial and Ulnar Deviation" , // answer
 	"FudentialMotion"], // group
 	["Takes place at the ankle wth dorsiflexion bringing the foot upward and plantar flexion pushing the foot down",
-	"Dorsiflexion & Plantar Flexion" , // answer
+	"Dorsiflexion and Plantar Flexion" , // answer
 	"FudentialMotion"], // group
 	["The sole of the foot faces medially in inversion and laterally in eversion",
-	"Inversion & Eversion" , // answer
+	"Inversion and Eversion" , // answer
 	"FudentialMotion"], // group
 
 ];
